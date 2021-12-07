@@ -47,7 +47,6 @@
     "react-addons-test-utils": "^15.4.2",
     "react-dom": "^16.6.0",
     "react-iframe": "^1.3.3",
-    "react-redux": "^5.0.7",
     "react-xterm": "^2.0.4",
     "remote": "^0.2.6",
     "spectron": "^3.6.2",
